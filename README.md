@@ -1,5 +1,6 @@
 # 3d-printer-Finish-Time
 
+```c
 
  // SD Card Progress bar and clock
  u8g.setFont(FONT_STATUSMENU);
@@ -17,3 +18,5 @@
     else {
 			// do nothing
 		 }
+
+```
